@@ -170,7 +170,8 @@ class MainPage extends Page
 
 		echo "<script src='inc/ui.js'></script>\n";
 
-		echo "</body>";
+		echo "</body>\n";
+		echo "</html>";
 	}
 }
 
